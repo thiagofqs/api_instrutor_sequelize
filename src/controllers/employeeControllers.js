@@ -11,7 +11,7 @@ module.exports = {
   async Create(req, res) {
     try {
       await database.sync();
-      const { name, password, cpf, email, birthDate, cellPhone } = req.body
+      const { name, cpf, password, email, birthDate, cellPhone } = req.body
       await employeeModel.create({
         name,
         cpf,
@@ -40,6 +40,7 @@ module.exports = {
           error: "Class not found!"
         });
       };
+      console.log(employeeRegistration);
       getClass.employee = employeeRegistration;
       await getClass.save();
       return res.status(201).send(getClass);
@@ -126,9 +127,9 @@ module.exports = {
     try {
       await database.sync()
       const { name, password, email, birthDate, cellPhone } = req.body;
-      const {cpf, senha} = req.headers;
+      const {cpf, loginPassword} = req.headers;
       const employee = await employeeModel.findOne(cpf)
-      if(senha === employee.senha && employee !== null) {
+      if(loginPassword === employee.password && employee !== null) {
         employee.name = name;
         employee.password = password;
         employee.email = email;

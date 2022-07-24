@@ -1,5 +1,5 @@
 {
-  "name": "api_instrutor",
+  "name": "api_instrutor_sequelize",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

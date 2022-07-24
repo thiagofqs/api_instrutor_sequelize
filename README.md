@@ -1,5 +1,5 @@
 # API Instrutor - Sequelize
-Uma outra versão da API desenvolvida como trabalho, no curso Técnico em Desenvolvimento de Sistemas, usando NodeJS e o Express, com as requisições e respostas feitas através do Insomnia, porém usando banco de dados MySQL local.
+ API desenvolvida como trabalho, no curso Técnico em Desenvolvimento de Sistemas, usando NodeJS e o Express, com as requisições e respostas feitas pela web usando banco de dados MySQL local.
 
 > Uma API para cadastro de instrutores e classes, verificação e deleção dos mesmos, ambos com verificações, atribuições e formatações.
 
