@@ -91,7 +91,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 [⬆ Voltar ao topo](#)<br>
 
 <!-- BADGE LINKS & IMAGES -->
-[status-shield]: https://img.shields.io/static/v1?label=STATUS&message=EM%20APRIMORAMENTO&color=GREEN&style=for-the-badge
+[status-shield]: https://img.shields.io/static/v1?label=STATUS&message=EM%20APRIMORAMENTO&color=yellow&style=for-the-badge
 [status-url]: https://github.com/thiagofqs
 [forks-shield]: https://img.shields.io/github/forks/thiagofqs/api_instrutor_sequelize.svg?style=for-the-badge
 [forks-url]: https://github.com/thiagofqs/api_instrutor_sequelize/network/members
