@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-API desenvolvida, com base no projeto [API Instrutor](https://github.com/thiagofqs/api_instrutor), usando NodeJS e o Express, com as requisições e respostas através do Insomnia com banco de dados MySQL local.
+API desenvolvida, com base no meu projeto [API Instrutor](https://github.com/thiagofqs/api_instrutor), usando NodeJS e o Express, com as requisições e respostas através do Insomnia com banco de dados MySQL local.
 
 > Uma API para cadastro de instrutores e turmas, verificação e deleção dos mesmos, ambos com verificações, atribuições e formatações.
 
