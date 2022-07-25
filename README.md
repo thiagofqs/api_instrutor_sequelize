@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-API desenvolvida como variação do trabalho, feito no curso Técnico em Desenvolvimento de Sistemas, usando NodeJS e o Express, com as requisições e respostas através do Insomnia com banco de dados MySQL local.
+API desenvolvida, com base no projeto [API Instrutor](https://github.com/thiagofqs/api_instrutor), usando NodeJS e o Express, com as requisições e respostas através do Insomnia com banco de dados MySQL local.
 
 > Uma API para cadastro de instrutores e turmas, verificação e deleção dos mesmos, ambos com verificações, atribuições e formatações.
 
@@ -69,19 +69,6 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
   </tr>
-</table>
-
-### Professor
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/patrickviniciusestevao">
-        <img src="https://avatars.githubusercontent.com/u/60794165?v=4" width="100px;" alt="Foto do Patrick Vinícius Estevão no GitHub"/><br>
-        <sub>
-          <b>Patrick Vinícius Estevão</b>
-        </sub>
-      </a>
-    </td>
 </table>
 
 ## 📝 Licença
