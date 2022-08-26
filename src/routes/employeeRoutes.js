@@ -16,8 +16,8 @@ routes.get("/search/cpf", controller.ListPerCpf);
 
 routes.get("/search/name", controller.ListPerName);
 
-routes.put("/employee", controller.Update);
+routes.put("/update/employee", controller.Update);
 
-routes.delete("/employee", controller.DeleteEmployee);
+routes.delete("/delete/employee", controller.DeleteEmployee);
 
 module.exports = routes;
