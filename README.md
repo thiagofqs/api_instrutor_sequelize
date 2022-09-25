@@ -54,15 +54,15 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/thiagofqs">
-        <img src="https://avatars.githubusercontent.com/u/39809188?v=4" width="100px;" alt="Foto do Thiago Freitas no GitHub"/><br>
+        <img src="https://github.com/thiagofqs.png" width="100px;" alt="Foto do Thiago Freitas no GitHub"/><br>
         <sub>
           <b>Thiago Freitas</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Maethsu">
-        <img src="https://avatars.githubusercontent.com/u/108204887?v=4" width="100px;" alt="Foto do Matheus Armindo no Github (provisória)"/><br>
+      <a href="https://github.com/armindomatheus">
+        <img src="https://github.com/armindomatheus.png" width="100px;" alt="Foto do Matheus Armindo no GitHub"/><br>
         <sub>
           <b>Matheus Armindo</b>
         </sub>
@@ -87,4 +87,4 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 [issues-shield]: https://img.shields.io/github/issues/thiagofqs/api_instrutor_sequelize.svg?style=for-the-badge
 [issues-url]: https://github.com/thiagofqs/api_instrutor_sequelize/issues
 [license-shield]: https://img.shields.io/github/license/thiagofqs/api_instrutor_sequelize.svg?style=for-the-badge
-[license-url]: https://github.com/thiagofqs/api_instrutor_sequelize/blob/master/LICENSE
+[license-url]: https://github.com/thiagofqs/api_instrutor_sequelize/blob/main/LICENSE
