@@ -1,6 +1,5 @@
 # API Instrutor - Sequelize
 
-[![Status][status-shield]][status-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -41,10 +40,17 @@ API desenvolvida, com base no meu projeto [API Instrutor](https://github.com/thi
 
 ## 🚀 Tecnologias Utilizadas
 
-- ``NodeJS``
-- ``Express``
-- ``Sequelize``
+- ``NodeJS + Express``
+- ``Sequelize + mysql2``
 - ``Insomnia``
+
+## 📦 Instalação
+
+Utilize o npm do NodeJS para instalar todas as dependências:
+
+``` sh
+$ npm install express mysql2 sequelize
+```
 
 ## 🤝 Colaboradores
 
@@ -78,8 +84,6 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais de
 [⬆ Voltar ao topo](#)<br>
 
 <!-- BADGE LINKS & IMAGES -->
-[status-shield]: https://img.shields.io/static/v1?label=STATUS&message=EM%20APRIMORAMENTO&color=yellow&style=for-the-badge
-[status-url]: https://github.com/thiagofqs
 [forks-shield]: https://img.shields.io/github/forks/thiagofqs/api_instrutor_sequelize.svg?style=for-the-badge
 [forks-url]: https://github.com/thiagofqs/api_instrutor_sequelize/network/members
 [stars-shield]: https://img.shields.io/github/stars/thiagofqs/api_instrutor_sequelize.svg?style=for-the-badge
