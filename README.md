@@ -52,31 +52,6 @@ Utilize o npm do NodeJS para instalar todas as dependências:
 $ npm install express mysql2 sequelize
 ```
 
-## 🤝 Colaboradores
-
-Agradeço às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/thiagofqs">
-        <img src="https://github.com/thiagofqs.png" width="100px;" alt="Foto do Thiago Freitas no GitHub"/><br>
-        <sub>
-          <b>Thiago Freitas</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/armindomatheus">
-        <img src="https://github.com/armindomatheus.png" width="100px;" alt="Foto do Matheus Armindo no GitHub"/><br>
-        <sub>
-          <b>Matheus Armindo</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
